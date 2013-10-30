@@ -79,7 +79,7 @@ Here are the best resources I have come across for learning the Git distributed 
 ##Development Workflows in Git
 [@Schacon](https://github.com/schacon): [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)  
-[](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
+[A simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
 [NetTuts—The Perfect Workflow: Git, GitHub, and SSH](http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/)  
 [@Wycats](https://github.com/wycats): [Common Git Workflows](http://yehudakatz.com/2010/05/13/common-git-workflows/)  
 
