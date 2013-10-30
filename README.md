@@ -1,45 +1,6 @@
 #Learn Git
 Here are the best resources I have come across for learning the Git distributed version control system.
 
-##Development Workflows in Git
-[@ScottChacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
-[A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)  
-[](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
-[NetTuts—The Perfect Workflow: Git, GitHub, and SSH](http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/)  
-[@YehudaKatz: Common Git Workflows](http://yehudakatz.com/2010/05/13/common-git-workflows/)  
-
-###Merge vs. Rebase
-[@Mislav: Merge vs. Rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)  
-[SourceTree Blog: Merge or Rebase?](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)  
-[Envato: Rebasing Merge Commits in Git](http://notes.envato.com/developers/rebasing-merge-commits-in-git/)  
-[Only You Can Prevent Merge Commits](http://viget.com/extend/only-you-can-prevent-git-merge-commits)  
-[The Case for Git Rebase](http://darwinweb.net/articles/the-case-for-git-rebase)  
-[Git Rebase Considered Awesome](http://blog.woobling.org/2009/05/git-rebase-considered-awesome.html)  
-[@isaacs: Git Is an Editor, and Rebase is the Backspace Key](http://blog.izs.me/post/37650663670/git-rebase)  
-
-###Pull vs. Fetch
-[Smart Pull](http://github-displayer.heroku.com/geelen/git-smart/raw/master/docs/smart-pull.html)  
-
-###Tagging
-[Adding and Removing Tags](http://wptheming.com/2011/04/add-remove-github-tags/)  
-[GitReady: Tagging](http://gitready.com/beginner/2009/02/03/tagging.html)  
-
-##Aliases
-[Git Wiki: Aliases](https://git.wiki.kernel.org/index.php/Aliases)  
-[Everyday Git Aliases](http://code.joejag.com/2013/everyday-git-aliases/)  
-[Must-have Git Aliases](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)  
-[Idiot-proof Git Aliases](https://gist.github.com/geelen/590895)  
-
-##Advanced
-[Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks)  
-[Patience Diffs](http://bramcohen.livejournal.com/73318.html)  
-[Auto Notify on Git Pull](http://www.h3manth.com/new/blog/2013/auto-notify-git-pull/)  
-[Speed up Git 5-50x](http://interrobeng.com/2013/08/25/speed-up-git-5x-to-50x/)  
-[Git rerere](http://git-scm.com/blog/2010/03/08/rerere.html)  
-[Check out GitHub Pull Requests locally](https://gist.github.com/piscisaureus/3342247)  
-[Deploying with Git](https://coderwall.com/p/xczkaq)  
-[Hub](http://hub.github.com/)  
-
 ##Courses
 [O'Reilly Video - Mastering Git](http://oreilly.com/catalog/0636920017462/)  
 [PeepCode - Git Training](http://peepcode.com/products/git)  
@@ -96,7 +57,7 @@ Here are the best resources I have come across for learning the Git distributed 
 
 ##GUI clients
 ###Mac
-[GitHub for Mac](http://mac.github.com)
+[GitHub for Mac](http://mac.github.com)  
 [GitX](http://gitx.frim.nl/)  
 [Tower: The most powerful git client for Mac](http://www.git-tower.com/)  
 [Gitbox: The Everyday git interface for human beings.](http://gitbox.pierlis.com/)  
@@ -114,3 +75,42 @@ Here are the best resources I have come across for learning the Git distributed 
 [Git Tower's git cheat sheet](http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_white.pdf)  
 [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)  
 [Git cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html)  
+
+##Development Workflows in Git
+[@ScottChacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
+[A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)  
+[](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
+[NetTuts—The Perfect Workflow: Git, GitHub, and SSH](http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/)  
+[@YehudaKatz: Common Git Workflows](http://yehudakatz.com/2010/05/13/common-git-workflows/)  
+
+###Merge vs. Rebase
+[@Mislav: Merge vs. Rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)  
+[SourceTree Blog: Merge or Rebase?](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)  
+[Envato: Rebasing Merge Commits in Git](http://notes.envato.com/developers/rebasing-merge-commits-in-git/)  
+[Only You Can Prevent Merge Commits](http://viget.com/extend/only-you-can-prevent-git-merge-commits)  
+[The Case for Git Rebase](http://darwinweb.net/articles/the-case-for-git-rebase)  
+[Git Rebase Considered Awesome](http://blog.woobling.org/2009/05/git-rebase-considered-awesome.html)  
+[@isaacs: Git Is an Editor, and Rebase is the Backspace Key](http://blog.izs.me/post/37650663670/git-rebase)  
+
+###Pull vs. Fetch
+[Smart Pull](http://github-displayer.heroku.com/geelen/git-smart/raw/master/docs/smart-pull.html)  
+
+###Tagging
+[Adding and Removing Tags](http://wptheming.com/2011/04/add-remove-github-tags/)  
+[GitReady: Tagging](http://gitready.com/beginner/2009/02/03/tagging.html)  
+
+##Aliases
+[Git Wiki: Aliases](https://git.wiki.kernel.org/index.php/Aliases)  
+[Everyday Git Aliases](http://code.joejag.com/2013/everyday-git-aliases/)  
+[Must-have Git Aliases](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)  
+[Idiot-proof Git Aliases](https://gist.github.com/geelen/590895)  
+
+##Advanced
+[Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks)  
+[Patience Diffs](http://bramcohen.livejournal.com/73318.html)  
+[Auto Notify on Git Pull](http://www.h3manth.com/new/blog/2013/auto-notify-git-pull/)  
+[Speed up Git 5-50x](http://interrobeng.com/2013/08/25/speed-up-git-5x-to-50x/)  
+[Git rerere](http://git-scm.com/blog/2010/03/08/rerere.html)  
+[Check out GitHub Pull Requests locally](https://gist.github.com/piscisaureus/3342247)  
+[Deploying with Git](https://coderwall.com/p/xczkaq)  
+[Hub](http://hub.github.com/)  
