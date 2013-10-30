@@ -66,10 +66,8 @@ Here are the best resources I have come across for learning the Git distributed 
 [Easy version control with git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/)  
 [Getting the hang of GitHub](http://net.tutsplus.com/tutorials/other/getting-the-hang-of-github/)  
 [Understanding Git Conceptually](http://www.eecs.harvard.edu/~cduan/technical/git/)  
-[Git for Designers](http://hoth.entp.com/output/git_for_designers.html)
-[Official git documentation](http://git-scm.com/documentation)  
+[Git for Designers](http://hoth.entp.com/output/git_for_designers.html)  
 [Git - The Basics](http://excess.org/article/2008/07/ogre-git-tutorial/)  
-[Git cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html)  
 [Git For Windows Developers Series](http://www.lostechies.com/blogs/jason_meridth/archive/2009/06/01/git-for-windows-developers-git-series-part-1.aspx)  
 [Getting Started with Git on Mac OS X](http://shaun.boyblack.co.za/blog/2009/03/14/getting-started-with-git-on-mac-os-x/)  
 
@@ -90,6 +88,7 @@ Here are the best resources I have come across for learning the Git distributed 
 
 ###Wikis/Sites
 [GitHub Help](https://help.github.com/)
+[Official git documentation](http://git-scm.com/documentation)  
 [Gitref (also redirects from learn.github.com)](http://gitref.org/)  
 [Git FAQ](http://git.or.cz/gitwiki/GitFaq)  
 [Think Like a git](http://think-like-a-git.net/) 
@@ -114,3 +113,4 @@ Here are the best resources I have come across for learning the Git distributed 
 ##Visual References
 [Git Tower's git cheat sheet](http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_white.pdf)  
 [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)  
+[Git cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html)  
