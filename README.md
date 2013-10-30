@@ -77,20 +77,20 @@ Here are the best resources I have come across for learning the Git distributed 
 [Git cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html)  
 
 ##Development Workflows in Git
-[@ScottChacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
+[@Schacon](https://github.com/schacon): [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)  
 [](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
 [NetTuts—The Perfect Workflow: Git, GitHub, and SSH](http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/)  
-[@YehudaKatz: Common Git Workflows](http://yehudakatz.com/2010/05/13/common-git-workflows/)  
+[@Wycats](https://github.com/wycats): [Common Git Workflows](http://yehudakatz.com/2010/05/13/common-git-workflows/)  
 
 ###Merge vs. Rebase
-[@Mislav: Merge vs. Rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)  
+[@Mislav](https://github.com/mislav): [Merge vs. Rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)  
 [SourceTree Blog: Merge or Rebase?](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)  
 [Envato: Rebasing Merge Commits in Git](http://notes.envato.com/developers/rebasing-merge-commits-in-git/)  
 [Only You Can Prevent Merge Commits](http://viget.com/extend/only-you-can-prevent-git-merge-commits)  
 [The Case for Git Rebase](http://darwinweb.net/articles/the-case-for-git-rebase)  
 [Git Rebase Considered Awesome](http://blog.woobling.org/2009/05/git-rebase-considered-awesome.html)  
-[@isaacs: Git Is an Editor, and Rebase is the Backspace Key](http://blog.izs.me/post/37650663670/git-rebase)  
+[@Isaacs](https://github.com/isaacs): [Git Is an Editor, and Rebase is the Backspace Key](http://blog.izs.me/post/37650663670/git-rebase)  
 
 ###Pull vs. Fetch
 [Smart Pull](http://github-displayer.heroku.com/geelen/git-smart/raw/master/docs/smart-pull.html)  
