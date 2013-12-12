@@ -1,5 +1,5 @@
 #Learn Git
-===
+
 Here are the best resources I have come across for learning the Git distributed version control system. Feel free to open up a [pull request](https://github.com/kevinsuttle/learn-git/pulls) or [let me know](https://github.com/kevinsuttle/learn-git/issues) if about any necessary fixes/updates.
 
 ##Courses
