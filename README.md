@@ -88,6 +88,8 @@ Taken from [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis
 [Git cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html)  
 
 ## Git Workflow Methodologies
+[The Normal Workflow](http://www.youtube.com/watch?v=U1ayH6KLqxo)  
+[The Distributed Workflow](http://www.youtube.com/watch?v=KWNIKb6sftw)  
 [@Schacon](https://github.com/schacon): [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)  
 [A simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
@@ -115,13 +117,19 @@ Taken from [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis
 [Everyday Git Aliases](http://code.joejag.com/2013/everyday-git-aliases/)  
 [Must-have Git Aliases](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)  
 [Idiot-proof Git Aliases](https://gist.github.com/geelen/590895)  
+[Streamline your workflow with git aliases](http://robots.thoughtbot.com/streamline-your-git-workflow-with-aliases)  
 
 ## Advanced
 [Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks)  
 [Patience Diffs](http://bramcohen.livejournal.com/73318.html)  
 [Auto Notify on Git Pull](http://www.h3manth.com/new/blog/2013/auto-notify-git-pull/)  
 [Speed up Git 5-50x](http://interrobeng.com/2013/08/25/speed-up-git-5x-to-50x/)  
-[Git rerere](http://git-scm.com/blog/2010/03/08/rerere.html)  
+[Git rerere: teach git how to handle conflicts in the future](http://git-scm.com/blog/2010/03/08/rerere.html)  
+[Git subtree: an alternative to submodules](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)  
+[Git bisect - Track down the commit that introduced the bug](http://robots.thoughtbot.com/git-bisect)  
+[Git reflog: your safety net](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html)  
 [Check out GitHub Pull Requests locally](https://gist.github.com/piscisaureus/3342247)  
 [Deploying with Git](https://coderwall.com/p/xczkaq)  
 [Hub](http://hub.github.com/)  
+
+
