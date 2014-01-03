@@ -1,12 +1,14 @@
-#Learn Git
+# Learn
+
+<img src="http://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="50%" />
 
 Here are the best resources I have come across for learning the Git distributed version control system. Feel free to open up a [pull request](https://github.com/kevinsuttle/learn-git/pulls) or [let me know](https://github.com/kevinsuttle/learn-git/issues) if about any necessary fixes/updates.
 
-##Courses
+## Courses
 [O'Reilly Video - Mastering Git](http://oreilly.com/catalog/0636920017462/)  
 [PeepCode - Git Training](http://peepcode.com/products/git)  
 
-##Videos
+## Videos
 [Terminal, Git, and GitHub for the Rest of Us: Screencast](http://net.tutsplus.com/videos/screencasts/terminal-git-and-github-for-the-rest-of-us-screencast/)  
 [Git, GitHub and Social Coding - By Scott Chacon, Chris Wanstrath and Tom Preston-Werner (founders of Github)](http://developer.yahoo.com/yui/theater/video.php?v=prestonwerner-github)  
 [YUI Theater — Jenny Donnelly: Introduction to Git](http://www.yuiblog.com/blog/2011/06/09/video-f2esummit2011-donnelly/)  
@@ -23,7 +25,7 @@ Here are the best resources I have come across for learning the Git distributed 
 [How GitHub Uses GitHub to Build GitHub](http://www.youtube.com/watch?v=qyz3jkOBbQY&t=09m12s)  
 [Jonathan Stark: An Introduction to Git](http://www.youtube.com/watch?&v=24NGu1vGBiw)  
 
-##Articles
+## Articles
 [A List Apart - Get started with git](http://www.alistapart.com/articles/get-started-with-git/)  
 [Easy version control with git](http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/)  
 [Getting the hang of GitHub](http://net.tutsplus.com/tutorials/other/getting-the-hang-of-github/)  
@@ -33,7 +35,7 @@ Here are the best resources I have come across for learning the Git distributed 
 [Git For Windows Developers Series](http://www.lostechies.com/blogs/jason_meridth/archive/2009/06/01/git-for-windows-developers-git-series-part-1.aspx)  
 [Getting Started with Git on Mac OS X](http://shaun.boyblack.co.za/blog/2009/03/14/getting-started-with-git-on-mac-os-x/)  
 
-##Training/Tutorials
+## Training/Tutorials
 [Git Immersion: Step by step tutorials](http://gitimmersion.com/)  
 [Try Git on Github: Powered by CodeSchool!](http://try.github.com/)  
 [GitHub Training](http://training.github.com/web/free-classes/)  
@@ -41,14 +43,14 @@ Here are the best resources I have come across for learning the Git distributed 
 [Git Ready](http://gitready.com/)  
 [Learn Git Branching: An Interactive Git Branching Tutorial](http://pcottle.github.io/learnGitBranching/)  
 
-##Reference
-###Books
+## Reference
+### Books
 [Pro Git Book (free, open source, online)](http://progit.org/book/)  
 [Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development](http://amzn.to/bgOOnO)  
 [Pragmatic Version Control Using Git](http://amzn.to/aMEJmL)  
 [Getting Good with git (Free ebook)](http://net.tutsplus.com/freebies/books/getting-good-with-git-free-ebook/)  
 
-###Wikis/Sites
+### Wikis/Sites
 [GitHub Help](https://help.github.com/)
 [Official git documentation](http://git-scm.com/documentation)  
 [Gitref (also redirects from learn.github.com)](http://gitref.org/)  
@@ -56,35 +58,43 @@ Here are the best resources I have come across for learning the Git distributed 
 [Think Like a git](http://think-like-a-git.net/) 
 [Git Ready](http://www.gitready.com/)  
 
-##GUI clients
-###Mac
-[GitHub for Mac](http://mac.github.com)  
-[GitX](http://gitx.frim.nl/)  
+## GUI clients
+Taken from [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis)  
+
+### Mac-specific
 [Tower: The most powerful git client for Mac](http://www.git-tower.com/)  
+[GitHub for Mac](http://mac.github.com)  
 [Gitbox: The Everyday git interface for human beings.](http://gitbox.pierlis.com/)  
+[GitX](http://gitx.frim.nl/)  
+[GitX-Dev: A fork of GitX](http://rowanj.github.io/gitx/)  
 
-###Windows, Linux, and Mac
+### Windows-specific
+[GitHub for Windows](http://windows.github.com)  
+[TortoiseGit](http://code.google.com/p/tortoisegit/)  
+[Git Extensions](http://code.google.com/p/gitextensions/)  
+
+### Windows and Mac
+[SourceTree](http://sourcetreeapp.com/)  
+
+### Windows, Linux, and Mac
 [Egit Eclipse plugin](http://www.eclipse.org/egit/)  
-[Using the EGit Eclipse plugin with GitHub](http://github.com/guides/using-the-egit-eclipse-plugin-with-github)  
 [SmartGit](http://www.syntevo.com/smartgit/index.html)  
+[Git Cola](http://git-cola.github.com/)  
+[Git Eye](http://www.giteyeapp.com/)  
 
-[GitHub for Windows](http://windows.github.com)
-[SourceTree (Windows and Mac)](http://sourcetreeapp.com/)  
-[TortoiseGit (Windows only)](http://code.google.com/p/tortoisegit/)  
-
-##Visual References
+## Visual References
 [Git Tower's git cheat sheet](http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_white.pdf)  
 [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)  
 [Git cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html)  
 
-##Development Workflows in Git
+## Git Workflow Methodologies
 [@Schacon](https://github.com/schacon): [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)  
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)  
 [A simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912)  
 [NetTuts—The Perfect Workflow: Git, GitHub, and SSH](http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/)  
 [@Wycats](https://github.com/wycats): [Common Git Workflows](http://yehudakatz.com/2010/05/13/common-git-workflows/)  
 
-###Merge vs. Rebase
+### Merge vs. Rebase
 [@Mislav](https://github.com/mislav): [Merge vs. Rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)  
 [SourceTree Blog: Merge or Rebase?](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)  
 [Envato: Rebasing Merge Commits in Git](http://notes.envato.com/developers/rebasing-merge-commits-in-git/)  
@@ -93,20 +103,20 @@ Here are the best resources I have come across for learning the Git distributed 
 [Git Rebase Considered Awesome](http://blog.woobling.org/2009/05/git-rebase-considered-awesome.html)  
 [@Isaacs](https://github.com/isaacs): [Git Is an Editor, and Rebase is the Backspace Key](http://blog.izs.me/post/37650663670/git-rebase)  
 
-###Pull vs. Fetch
+### Pull vs. Fetch
 [Smart Pull](http://github-displayer.heroku.com/geelen/git-smart/raw/master/docs/smart-pull.html)  
 
-###Tagging
+### Tagging
 [Adding and Removing Tags](http://wptheming.com/2011/04/add-remove-github-tags/)  
 [GitReady: Tagging](http://gitready.com/beginner/2009/02/03/tagging.html)  
 
-##Aliases
+## Aliases
 [Git Wiki: Aliases](https://git.wiki.kernel.org/index.php/Aliases)  
 [Everyday Git Aliases](http://code.joejag.com/2013/everyday-git-aliases/)  
 [Must-have Git Aliases](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)  
 [Idiot-proof Git Aliases](https://gist.github.com/geelen/590895)  
 
-##Advanced
+## Advanced
 [Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks)  
 [Patience Diffs](http://bramcohen.livejournal.com/73318.html)  
 [Auto Notify on Git Pull](http://www.h3manth.com/new/blog/2013/auto-notify-git-pull/)  
