@@ -52,7 +52,7 @@ Here are the best resources I have come across for learning the Git distributed 
 [Getting Good with git (Free ebook)](http://net.tutsplus.com/freebies/books/getting-good-with-git-free-ebook/)  
 
 ### Documentation Sites
-[GitHub Help](https://help.github.com/)
+[GitHub Help](https://help.github.com/)  
 [Official git documentation](http://git-scm.com/documentation)  
 [Gitref (also redirects from learn.github.com)](http://gitref.org/)  
 [Git FAQ](http://git.or.cz/gitwiki/GitFaq)  
