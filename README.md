@@ -42,6 +42,7 @@ Here are the best resources I have come across for learning the Git distributed 
 [Git Immersion](http://gitimmersion.com/index.html)  
 [Git Ready](http://gitready.com/)  
 [Learn Git Branching: An Interactive Git Branching Tutorial](http://pcottle.github.io/learnGitBranching/)  
+[Think Like a git](http://think-like-a-git.net/)  
 
 ## Reference
 ### Books
@@ -50,13 +51,12 @@ Here are the best resources I have come across for learning the Git distributed 
 [Pragmatic Version Control Using Git](http://amzn.to/aMEJmL)  
 [Getting Good with git (Free ebook)](http://net.tutsplus.com/freebies/books/getting-good-with-git-free-ebook/)  
 
-### Wikis/Sites
+### Documentation Sites
 [GitHub Help](https://help.github.com/)
 [Official git documentation](http://git-scm.com/documentation)  
 [Gitref (also redirects from learn.github.com)](http://gitref.org/)  
 [Git FAQ](http://git.or.cz/gitwiki/GitFaq)  
-[Think Like a git](http://think-like-a-git.net/) 
-[Git Ready](http://www.gitready.com/)  
+
 
 ## GUI clients
 Taken from [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis)  
