@@ -131,5 +131,6 @@ Taken from [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis
 [Check out GitHub Pull Requests locally](https://gist.github.com/piscisaureus/3342247)  
 [Deploying with Git](https://coderwall.com/p/xczkaq)  
 [Hub](http://hub.github.com/)  
+[Splitting a subpath into its own repo](https://help.github.com/articles/splitting-a-subpath-out-into-a-new-repository/)  
 
 
