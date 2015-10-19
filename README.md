@@ -2,7 +2,7 @@
 
 <img src="http://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="50%" />
 
-Here are the best resources I have come across for learning the Git distributed version control system. Feel free to open up a [pull request](https://github.com/kevinsuttle/learn-git/pulls) or [let me know](https://github.com/kevinsuttle/learn-git/issues) if about any necessary fixes/updates.
+Here are the best resources I have come across for learning the Git distributed version control system. Feel free to open up a [pull request](https://github.com/kevinSuttle/learn-git/compare/) or [let me know](https://github.com/kevinsuttle/learn-git/issues/new) if about any necessary fixes/updates.
 
 ##One stop shopping learning portals
 [Learn Version Control with Git: A step-by-step course for the complete beginner, presented by Fournova's Git Tower team](www.git-tower.com/learn/)  
